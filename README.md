@@ -57,7 +57,6 @@ media.stagefright.enable-aac=true
 media.stagefright.enable-qcp=true
 media.stagefright.enable-record=true
 
-
 # Disable Error reporting and logs
 profiler.force_disable_err_rpt=1
 profiler.force_disable_ulog=1
