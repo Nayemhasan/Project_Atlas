@@ -62,7 +62,7 @@ ro.config.nocheckin=1
 logcat.live=disable
 
 # Touch 
-peak_refresh_rate=60
-user_refresh_rate=60
+peak_refresh_rate=60-120
+user_refresh_rate=60-120
 touch.pressure.scale=0.001
 af.resampler.quality=255
