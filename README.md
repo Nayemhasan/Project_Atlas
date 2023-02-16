@@ -22,7 +22,6 @@ persist.sys.composition.type=c2d
 persist.sys.ui.hw=1
 video.accelerate.hw=1
 
-
 # Allow purge of assets to free more ram
 persist.sys.purgeable_assets=1
 dalvik.vm.dexopt-flags=m=y
