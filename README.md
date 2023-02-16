@@ -1,5 +1,8 @@
-# Project_Atlas
+## Project_Atlas
  Abomination of kernel level optimization using greatest build props  tweaks of all time.
+
+## What it does to build prop:
+
  ```bash
  # Rendering Tweaks
 debug.composition.type=c2d
