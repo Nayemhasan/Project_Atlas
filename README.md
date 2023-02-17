@@ -72,7 +72,7 @@ touch.pressure.scale=0.001
 af.resampler.quality=255
 ```
 ## How to install:
- 1. Download the latest release according to your phones display `refreshrate`.
+ 1. Download the latest release according to your phones display `refreshrate`
  2. Flash in Magisk.
  3. Done and *profit.
 
