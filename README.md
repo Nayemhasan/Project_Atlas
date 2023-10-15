@@ -1,5 +1,5 @@
 ## Project_Atlas
- Abomination of kernel level optimization using greatest build props tweaks of all time by 🍉
+ kernel-level tweaks by 🍉 for the best build.prop enhancements!
 
 ## What it does to build prop:
 
